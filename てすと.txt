@@ -3,4 +3,5 @@
 モンエナ
 ZONE
 redbull
+REALGOLD
 
